@@ -1,0 +1,25 @@
+{
+  "name": "accessibility-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masonkimm/Accessibility-Checker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masonkimm/Accessibility-Checker/issues"
+  },
+  "homepage": "https://github.com/masonkimm/Accessibility-Checker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pa11y": "^6.1.1"
+  }
+}
